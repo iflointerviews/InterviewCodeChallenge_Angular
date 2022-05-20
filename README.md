@@ -1,5 +1,7 @@
 # InterviewCodeChallenge_Angular
 
+For designing task use: https://app.diagrams.net/
+
 Pre-Requisites:
 * .Net Core 3.1 installed.
 * Visual Studio or VS Code installed.
